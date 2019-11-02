@@ -1,0 +1,10 @@
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\netcoreapp3.0\ArithmeticOperation.exe
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\netcoreapp3.0\ArithmeticOperation.deps.json
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\netcoreapp3.0\ArithmeticOperation.runtimeconfig.json
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\netcoreapp3.0\ArithmeticOperation.runtimeconfig.dev.json
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\netcoreapp3.0\ArithmeticOperation.dll
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\netcoreapp3.0\ArithmeticOperation.pdb
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\netcoreapp3.0\ArithmeticOperation.AssemblyInfoInputs.cache
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\netcoreapp3.0\ArithmeticOperation.AssemblyInfo.cs
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\netcoreapp3.0\ArithmeticOperation.dll
+C:\Users\userArjen\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\netcoreapp3.0\ArithmeticOperation.pdb
